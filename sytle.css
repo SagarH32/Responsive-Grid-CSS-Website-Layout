@@ -34,24 +34,11 @@ body {
   color: white;
   box-shadow: 0 0 20px #eee;
   border-radius: 5px;
-  /* display: block; */
-
   padding: 0.6rem 1.3rem;
   text-decoration: none;
   border: 0;
 }
-/* .btn {
-  
-  background: var(--dark);
-  color: var(--light);
-  padding: 0.6rem 1.3rem;
-  text-decoration: none;
-  border: 0;
-} */
-/* .btn:hover {
-  background: var(--light);
-  color: var(--dark);
-} */
+
 .btn:hover {
   background-position: right center; /* change the direction of the change here */
   color: #fff;
